@@ -21,6 +21,8 @@ body {
     background-color: var(--primaryColor);
     color: var(--textColor);
 }
+
+/* Navbar Section */
 #mainNavbar {
     background-color: var(--primaryColor)!important;
     border-bottom: 1px solid var(--gray);
@@ -51,4 +53,49 @@ body {
 .navbar-toggler-icon:focus {
     outline: none;
     box-shadow: none;
+}
+
+/* Hero Section */
+.profile {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    height: 100%;
+
+}
+
+section {
+    padding: 5rem;
+}
+
+.hero {
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+#hero .social a{
+    transform: all;
+    -webkit-transition: all;
+    -moz-transition: all;
+    -ms-transition: all;
+    -o-transition: all;
+}
+
+#hero .social a:hover {
+    color: var(--textColor);
+    transform: scale(1.2);
+    -webkit-transition: scale(1.2);
+    -moz-transition: scale(1.2);
+    -ms-transition: scale(1.2);
+    -o-transition: scale(1.2);
+}
+
+#particles-js {
+    position: relative;
+    width: 100%;
+    height: 100%;
 }

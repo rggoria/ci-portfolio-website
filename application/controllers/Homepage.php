@@ -13,7 +13,6 @@ class Homepage extends CI_Controller {
         $data['title'] = 'Homepage';
         $data['author'] = $this->config->item('author');  
         $this->load->view('include/header', $data);
-        $this->load->view('include/navbar');
         $this->load->view('homepage/homepage_view');
         $this->load->view('include/footer');
     }
