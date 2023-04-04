@@ -34,18 +34,18 @@
 <!-- HEADER END -->
 
 <!-- HERO START -->
-<section class="hero" id="particles-js">
-    <div class="container border border-danger profile" id="hero">
-        <div class="text-center"><h1 class="mt-5 fw-bold">I am <span class="typer"></span></h1></div>
+<section id="hero">
+    <div class="container">
+        <h1 class="text-center mt-5 fw-bold">I am <span class="typer"></span></h1>
         <div class="row">
             <div class="col-md-1 social d-none d-md-flex flex-column justify-content-center">
-                <a href="https://github.com/rggoria" target="_blank"><i class="bi bi-github"></i></a>
-                <a href="https://www.linkedin.com/in/ram-emerson-goria-474265265/" target="_blank"><i class="bi bi-linkedin"></i></a>
+                <a href="https://github.com/rggoria" target="_blank"><i class="bi bi-github fs-5"></i></a>
+                <a href="https://www.linkedin.com/in/ram-emerson-goria-474265265/" target="_blank"><i class="bi bi-linkedin fs-5"></i></a>
             </div>
-            <div class="col-md-4 border border-success">
-                <img src="<?php echo base_url('resources/images/intro.png');?>" alt="Profile" class="image-fluid mt-5 ms-lg-4">
+            <div class="col-md-4">
+                <img src="<?php echo base_url('resources/images/intro.png');?>" alt="Profile" class="image-fluid mt-5 ms-lg-4 mx-auto d-block" height="500">
             </div>
-            <div class="col-md-7 border border-primary d-flex flex-column justify-content-center">
+            <div class="col-md-7 d-flex flex-column justify-content-center">
                 <div class="hero-content px-lg-5">
                     <p>
                         I aim to utilize my passion for innovation and expertise in web and mobile app development.
@@ -66,6 +66,46 @@
     <div class="container">
         <div class="section-title">
             <h3 class="text-center fw-bold main-title">About Me</h3>
+            <p class="text-center fw-bold sub-title">About Me</p>
+        </div>
+        <div class="row">
+            <div class="col-md-12 col-lg-5">
+                <img src="<?php echo base_url('resources/images/profile.jpg');?>" alt="about me" class="image-fluid rounded mx-auto d-block" height="250">
+            </div>
+            <div class="col-md-12 col-lg-7">
+                <p>
+                    As an inspiring web and mobile app developer, I love creating applications that
+                    are easy for people to use. I'm a great team player and enjoy working with others
+                    to create something awesome. I'm always looking for exciting projects to work on
+                    that can make a positive impact. My portfolio is simple and general to showcase
+                    my skills in different areas. I'm excited about the future of technology and how
+                    I can contribute to making it better.
+                </p>
+                <a href="#" class="btn btn-primary">Read More</a>
+                <div class="row mt-5 text-center exp">
+                    <div class="col-6 col-lg-3">
+                        <div class="d-flex justify-content-center">
+                            <h4 class="fw-bold exp-number" data-val="7">0</h4>
+                            <h5 class="mt-4 ps-1">+</h5>
+                        </div>
+                        <p>experience</p>
+                    </div>
+                    <div class="col-6 col-lg-3">
+                        <div class="d-flex justify-content-center">
+                            <h4 class="fw-bold exp-number" data-val="7">0</h4>
+                            <h5 class="mt-4 ps-1">+</h5>
+                        </div>
+                        <p>project</p>
+                    </div>
+                    <div class="col-6 col-lg-3">
+                        <div class="d-flex justify-content-center">
+                            <h4 class="fw-bold exp-number" data-val="2">0</h4>
+                            <h5 class="mt-4 ps-1">+</h5>
+                        </div>
+                        <p>certificate</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
