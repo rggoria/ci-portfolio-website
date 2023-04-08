@@ -51,7 +51,7 @@
                         gaining valuable hands-on experience and expanding my understanding of the industry.
                     </p>
                     <a href="#contact" class="btn btn-primary me-2">Contact</a>
-                    <a href="<?php echo base_url('resources/files/GORIA_RESUME.pdf') ?>" download class="btn btn-outline-primary px-4"><i class="bi bi-arrow-down-circle-fill me-1"></i>CV</a>
+                    <a href="<?php echo base_url('resources/files/GORIA_RESUME.pdf') ?>" download class="btn btn-outline-primary px-4"><i class="bi bi-arrow-down-circle-fill me-1"></i>Resume</a>
                 </div>
             </div>
         </div>
