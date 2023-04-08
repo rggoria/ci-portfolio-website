@@ -33,13 +33,13 @@ Step-by-step Installation:
 1. For github clone
     - Open your htdocs folder and open the terminal
     - paste this code on the terminal: git clone https://github.com/rggoria/ci-portfolio-website.git
-    Note: make sure your php server is running
     - run your preferred browser then typed localhost/ci-portfolio-website
+    Note: make sure your php server is running
 
 2. For download zip
     - extract the zip file
     - then open the folder then you can see the filename: ci-portfolio-website-main
     - rename the folder: ci-portfolio-website-main into ci-portfolio-website
     - move the ci-portfolio-website file on the htdocs folder
-    Note: make sure your php server is running
     - run your preferred browser then typed localhost/ci-portfolio-website
+    Note: make sure your php server is running
