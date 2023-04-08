@@ -2,7 +2,7 @@
 Introduction
 ###################
 
-This project is a website that I made to show the different web applications I
+This project is a website that I made to shows the web application I
 have developed. It's like a collection of my work that demonstrates my skills
 in creating websites and web applications. In my project, you can see different
 types of web technologies that I have used, such as HTML, CSS, and JavaScript.
