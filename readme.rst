@@ -30,16 +30,18 @@ Note: Server Requirements: PHP version 7.4 up to 8.1.
 
 Step-by-step Installation:
 
-1. For github clone
+1. For Github Clone
     - Open your htdocs folder and open the terminal
     - Paste this code on the terminal: git clone https://github.com/rggoria/ci-portfolio-website.git
     - Run your preferred browser then typed localhost/ci-portfolio-website
-    Note: make sure your php server is running
 
-2. For download zip
-    - Extract the zip file
+Note: Make sure your php server is running
+
+2. For Download ZIP
+    - Extract the ZIP file
     - Then open the folder then you can see the filename: ci-portfolio-website-main
     - Rename the folder: ci-portfolio-website-main into ci-portfolio-website
     - Move the ci-portfolio-website file on the htdocs folder
     - Run your preferred browser then typed localhost/ci-portfolio-website
-    Note: make sure your php server is running
+
+Note: Make sure your php server is running
