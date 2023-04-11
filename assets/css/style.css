@@ -270,3 +270,7 @@ form input, textarea, .input-group, .input-bg {
     left: 50%; /* move the div to the center horizontally */
     transform: translateX(-50%); /* center the div horizontally */
 }
+
+.particles-bg {
+    z-index: -1;
+}

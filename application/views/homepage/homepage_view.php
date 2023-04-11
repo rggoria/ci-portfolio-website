@@ -2,7 +2,7 @@
 <header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary shadow" id="mainNavbar">
         <div class="container">
-            <a class="navbar-brand text-white" href="#"><img src="<?php echo base_url('resources/images/logo.png');?>" alt="Logo" height="30"> Portfolio</a>
+            <a class="navbar-brand text-white"><img src="<?php echo base_url('resources/images/logo.png');?>" alt="Logo" height="30"> Portfolio</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="bi bi-list text-white fs-1"></span>
             </button>
@@ -33,7 +33,7 @@
 <!-- HERO START -->
 <section id="hero">
     <div class="container hidden-hero">
-        <h1 class="text-center mt-5 fw-bold">I am <span class="typer"></span></h1>
+        <h1 class="text-center mt-5 fw-bold">I'm a <span class="typer"></span></h1>
         <div class="row">
             <div class="col-md-1 social d-none d-md-flex flex-column justify-content-center">
                 <a href="https://github.com/rggoria" target="_blank"><i class="bi bi-github fs-5"></i></a>
@@ -299,7 +299,7 @@
             <p>Copyright 2023 RG | Powered by <?= $author; ?></p>
         </div>
     </div>
-    <div id="particles-js" style="position: relative; height: 150px"></div>
+    <div id="particles-js" style="position: relative; height: 150px" class="particles-bg"></div>
 </footer>
 <!-- FOOTER END -->
 
