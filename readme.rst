@@ -2,11 +2,12 @@
 Introduction
 ###################
 
-This project is a website that I made to shows the web application I
-have developed. It's like a collection of my work that demonstrates my skills
-in creating websites and web applications. In my project, you can see different
-types of web technologies that I have used, such as HTML, CSS, and JavaScript.
-I have also used different frameworks that help me create web applications more efficiently.
+This is a website I've created to showcase my web development skills and the web
+application I've built. It serves as a portfolio to highlight my expertise in
+creating websites and web applications using various web technologies, including
+HTML, CSS, and JavaScript. I've also incorporated different frameworks that
+enhance my efficiency in creating web applications. Explore my project to see
+my diverse range of skills and experience.
 
 *******************
 Technologies Used
